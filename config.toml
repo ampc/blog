@@ -28,7 +28,7 @@ disqusShortname = "https-ampc-xyz"
 [languages]
   [languages.en]
     title = "Electron Shepherd"
-    subtitle = "A place for sharing tips and ramblings"
+    subtitle = "A place for sharing tips and ramblings about tech"
     keywords = "technology, devops, automation, infrastructure, programming"
     copyright = "António Carvalho"
     menuMore = "Show more"
